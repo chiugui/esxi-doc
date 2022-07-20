@@ -12,6 +12,9 @@ https://developer.vmware.com/powercli
 
 
 
+
+
+
 1.下载ESXI离线镜像包
 
 下载地址:https://my.vmware.com/cn/web/vmware/downloads/details?downloadGroup=ESXI67U3B&productId=742&rPId=61938
